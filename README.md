@@ -13,8 +13,8 @@ The following are the directories in this Repo
 
 Task|Aim
 -|-
-1. 0x00-shell_basics|This project aims to learn about basic comands, navigation,manipulationg files
-2. 0x01-shell_permissions|This Project aims to learn about permissions of files and directories
-3. 0x02-shell_redirections|
-4. 0x03-shell_variable_expansions|
-5. 0x04_conditions_and_parsing|
+0x00-shell_basics|This project aims to learn about basic comands, navigation,manipulationg files
+0x01-shell_permissions|This Project aims to learn about permissions of files and directories
+0x02-shell_redirections|
+0x03-shell_variable_expansions|
+0x04_conditions_and_parsing|
