@@ -1,13 +1,13 @@
-System Engineering & Devops
+######System Engineering & Devops
 
 This repository contains projects related to System Engineering and Devops as part of ALX Software Engineering Program.
 
-Technologies used
+**Technologies used**
 - Scripts written in Bash 5.0.17
 - Tested on Ubuntu 20.04 LTS
 - Written in vim editor
 
-Directories
+**Directories**
 
 The following are the directories in this Repo
 0. 0x00-shell_basics - This project aims to learn about basic comands, navigation,manipulationg files
